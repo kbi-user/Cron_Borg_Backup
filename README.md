@@ -10,7 +10,7 @@ Cron-Borg-Backup is a utility script that automates your server backups using [B
 - Unix-like operating system
 - `BorgBackup` (at least version 1.2.0)
 - `mail` command to send emails
-- `cron` daemon for scheduling
+- `cron` daemon for scheduling. Make sure your cron can send emails.
 
 ## Description
 
