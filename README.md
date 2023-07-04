@@ -1,5 +1,5 @@
 # Cron-Borg-Backup 📦⏰
-
+![disaster-recovery-plan-your-corporation-cyber-security-concept-2020](https://github.com/kbi-user/Cron_Borg_Backup/assets/15234613/150d77d5-6cfa-4c97-90e3-a9e96511b2cd)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/naereen/StrapDown.js/blob/master/LICENSE)
 [![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
